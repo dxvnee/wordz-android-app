@@ -322,7 +322,7 @@ Beberapa fitur yang direncanakan untuk versi mendatang:
 Aplikasi ini cocok untuk:
 
 - 📚 **Pelajar dan Mahasiswa**: Yang ingin memperkaya kosakata bahasa Inggris
-- �� **Developer**: Yang sering menemui istilah baru dalam dokumentasi pemrograman
+- 💻 **Developer**: Yang sering menemui istilah baru dalam dokumentasi pemrograman
 - 📖 **Pembaca**: Yang ingin menyimpan kata-kata baru dari buku atau artikel
 - 🎬 **Penggemar Film/Series**: Yang ingin belajar dari subtitle atau dialog
 - 🎵 **Pecinta Musik**: Yang ingin memahami lirik lagu berbahasa Inggris
@@ -378,8 +378,6 @@ Dikembangkan oleh **dxvnee** sebagai proyek pembelajaran dan eksplorasi dalam so
 ### Connect
 
 - 🔗 GitHub: [@dxvnee](https://github.com/dxvnee)
-- 📧 Email: [Your Email]
-- 💼 LinkedIn: [Your LinkedIn]
 
 ---
 
